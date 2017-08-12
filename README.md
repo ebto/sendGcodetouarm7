@@ -28,3 +28,4 @@ Caution: closing serial terminal will make uArm go limp and lose all motor tensi
 
 Created: 10 August 2017
 Author: Eric Ong (ebto on GitHub)
+Watch the video at https://youtu.be/aZIYfyEji_I
